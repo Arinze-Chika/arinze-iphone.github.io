@@ -77,9 +77,13 @@ span{
 
     .container >*{
         font-family: 'Roboto Mono', monospace;
+           
     }
     
-
+    .atag{
+        padding: 0;
+        text-align: center;
+    }
 
     h2{
         font-family: 'PT Serif', serif;
