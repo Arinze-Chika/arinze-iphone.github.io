@@ -68,10 +68,10 @@ a{
 span{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-@media  (max-width: 700px) {
+@media  (max-width: 650px) {
     .container{
         display: flex;
-        gap: 0;
+        gap: 10px;
         margin: 0;
     }
 
@@ -83,6 +83,8 @@ span{
     .atag{
         padding: 0;
         text-align: center;
+        margin: 0;
+        width: 100px;
     }
 
     h2{
